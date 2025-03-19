@@ -11,11 +11,34 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `╭─────────────❥ 
+┃ 🔥 𝐍𝐈𝐏𝐔-𝐌𝐃 *𝐁ot 𝐢s 𝐎nline!* 🔥 
+┃ 
+┃ 🤖 *𝐘our 𝐒mart 𝐀ssistant, 𝐀lways 𝐇ere 𝐟or 𝐘ou!* 
+┃ 
+→→→→→→→→→→→→→→→
+> 𝐌𝐲 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 : https://whatsapp.com/channel/0029Vb9bLMqGJP8GmAHxUd02
+→→→→→→→→→→→→→→→
+┃ 🛠 *𝐅eatures I 𝐏rovide:* 
+┃ ┃ 📂 Automated Replies 
+┃ ┃ 🔍 Information Retrieval 
+┃ ┃ 🎨 Fun & Games 
+┃ ┃ 🤖 Chat with AI (ᴄʜᴀᴛ_ɢᴘᴛ) 
+┃ 
+┃ 📌 *𝐂ommands 𝐘ou 𝐂an 𝐓ry:* 
+┃ ┃ `.menu` - See all options 
+┃ ┃ `.list` - Explore available features 
+┃ ┃ `.gpt` - Ask me anything with AI! 
+┃ ┃ `.ping` - Check my status 
+┃ 
+┃ 🚀 *𝐔ptime:* Always Ready for Action! 
+┃ 🌐 *𝐏owered by* 𝐍𝐈𝐏𝐔-𝐌𝐃 *𝐒ystem* 
+╰─────────────❥ 
+
+*🔗 𝐋et’s make every chat fun and productive! 🌟*` //Costomize Alive Message (type your message in `` )
 
 
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
@@ -29,11 +52,11 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
-global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
-global.location = "India, Mizoram, Aizawl" // location
+global.vcardowner = ['+94729007640'] // owner number
+global.ownername = "𝐌𝐫_𝐍𝐈𝐏𝐔𝐍❤❯❯" // owner name
+global.ytname = "N-TechHub" // yt chanel name
+global.socialm = "GitHub: N-Bots990" // github or insta name
+global.location = "Sri Lanka, Uva, Monaragala" // location
 
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
@@ -43,23 +66,23 @@ global.callblock = "false" // call block "true" / "false" ("true"  to block call
 global.antibad = "false" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
 global.antilink = "false" // To remove group link sharing peoples
-global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
+global.upsongvoice = "true" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
+global.owner = ['+94729007640']
+global.ownertag = '+94729007640' //your tag number
 global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.author = "͢ᴿᴱᴬᴸ̮̮׀N I P͛͢ U N ͎͎͛͛͛͌ˣˣˣ" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94729007640'] //ur premium numbers
 
 //other
-global.sessionName = 'session'
+global.sessionName = 'NIPUN'
 global.antitags = false
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sp = '💠'
